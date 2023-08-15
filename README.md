@@ -1,7 +1,8 @@
 - ##Olá! Eu sou Gabriella Korinfsky!
 - 👋 Hi, I’m @gabriellakorinfsky
-- 👀 Sou estudande de Ciências da Computação
-- 🌱 3º Período 
+- 👀 Estudande de Ciências da Computação
+- 🏫 UNINASSAU GRAÇAS 
+- 🌱 4º Período 
 
 <div align="center">
   <a href="https://github.com/gabriellakorinfsky">
