@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @gabriellakorinfsky
 - 👀 Estudante de Ciências da Computação
 - 🏫 UNINASSAU GRAÇAS 
-- 🌱 4º Período 
+- 🌱 5º Período 
 
 <div align="center">
   <a href="https://github.com/gabriellakorinfsky">
