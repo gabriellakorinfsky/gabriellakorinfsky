@@ -1,5 +1,4 @@
-- ##Olá! Eu sou Gabriella Korinfsky!
-- 👋 Gabriella Korinfsky
+<h2>Gabriella Korinfsky</h2>
 - 👀 Estudante de Ciências da Computação
 - 🏫 UNINASSAU GRAÇAS 
 - 🌱 6º Período 
@@ -40,7 +39,7 @@
 </div>
 
 ###
-
+<h2>Snake</h2>
 <img src="https://raw.githubusercontent.com/gabriellakorinfsky/gabriellakorinfsky/output/snake.svg" alt="Snake animation" />
 
 ###
