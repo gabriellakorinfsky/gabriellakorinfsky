@@ -1,7 +1,9 @@
 <h2>Gabriella Korinfsky</h2>
-- 👀 Estudante de Ciências da Computação
-- 🏫 UNINASSAU GRAÇAS 
-- 🌱 6º Período 
+<li>👀 Estudante de Ciências da Computação</li>
+<li>🏫 UNINASSAU GRAÇAS </li>
+<li>🌱 6º Período </li>
+<br>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabriellakorinfsky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
