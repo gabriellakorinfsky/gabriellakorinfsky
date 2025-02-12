@@ -1,7 +1,7 @@
 <h2>Gabriella Korinfsky</h2>
 <li>👀 Estudante de Ciências da Computação</li>
 <li>🏫 UNINASSAU GRAÇAS </li>
-<li>🌱 6º Período </li>
+<li>🌱 7º Período </li>
 <br>
 
 
