@@ -1,24 +1,26 @@
-<h2>Gabriella Korinfsky</h2>
-<li>👀 Estudante de Ciências da Computação</li>
-<li>🏫 UNINASSAU GRAÇAS </li>
-<li>🌱 7º Período </li>
-<br>
+<h2 align="center">Gabriella Korinfsky</h2>
 
+### **Sobre mim**
+ - 🎓 Cursando Ciências da computação (Conclusão: 2025)
+ - 💡 Interesse em **Desenvolvimento web e desenvolvimento de Software**
+ - 💼 Ajustando projetos inacabados como **TechTrivia**
+ - 🚀 **Atualmente buscando uma oportunidade de estágio em Desenvolvimento Web ou Desenvolvimento de Software!**
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabriellakorinfsky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellakorinfsky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+<br>
 
-###
 <h2>Social Media</h2>
 <div align="leftr">
   <a><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
   <a href="https://www.instagram.com/gabriella_korin/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
   <a href = "mailto:gabriellalacerdachaves@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href = "https://www.linkedin.com/in/gabriella-korinfsky-44b705187/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
 </div>
 
-###
 <h2>Languages</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -40,14 +42,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+###<h2>Projetos em Destaque</h2>
+🚀 **[TechTrivia](https://github.com/gabriellakorinfsky/TechTrivia)** – Quiz sobre Cloud Computing, Maturidade em Desenvolvimento de Software e Python.  
+🔍 Veja mais projetos no meu [GitHub](https://github.com/gabriellakorinfsky).
+<br>
+
 <h2>Snake</h2>
 <img src="https://raw.githubusercontent.com/gabriellakorinfsky/gabriellakorinfsky/output/snake.svg" alt="Snake animation" />
-
-###
  
-
-<!---
-gabriellakorinfsky/gabriellakorinfsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 **_"O aprendizado é um processo contínuo. Cada projeto é uma oportunidade para evoluir!"_** 🚀
