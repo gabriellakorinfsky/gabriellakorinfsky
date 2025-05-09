@@ -3,7 +3,6 @@
 ### **Sobre mim**
  - 🎓 Cursando Ciência da computação (Conclusão: 2025)
  - 💡 Interesse em **Desenvolvimento web e desenvolvimento de Software**
- - 💼 Ajustando projetos inacabados como **TechTrivia**
  - 🚀 **Atualmente buscando uma oportunidade de estágio em Desenvolvimento Web ou Desenvolvimento de Software!**
 <br>
 
