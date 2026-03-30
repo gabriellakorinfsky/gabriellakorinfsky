@@ -2,8 +2,8 @@
 
 ### **Sobre mim**
  - 🎓 Graduada em Ciência da computação
- - 💡 Interesse em **Desenvolvimento web e desenvolvimento de Software**
- - 🚀 **Atualmente buscando uma oportunidade de estágio em Desenvolvimento Web ou Desenvolvimento de Software!**
+ - 💡 Interesse em **back-end e cybersegurança**
+ - 🚀 **Atualmente estudando para concurso**
 <br>
 
 <div align="center">
