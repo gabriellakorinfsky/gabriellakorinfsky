@@ -1,7 +1,7 @@
 <h2 align="center">Gabriella Korinfsky</h2>
 
 ### **Sobre mim**
- - 🎓 Cursando Ciência da computação (Conclusão: 2025)
+ - 🎓 Graduada em Ciência da computação
  - 💡 Interesse em **Desenvolvimento web e desenvolvimento de Software**
  - 🚀 **Atualmente buscando uma oportunidade de estágio em Desenvolvimento Web ou Desenvolvimento de Software!**
 <br>
